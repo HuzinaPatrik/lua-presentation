@@ -1,13 +1,13 @@
 
-# Prezentáció
+# Lua prezentáció
 
-Ezt a Lua bemutató prezentációt 2023 ősz folyamán készítettem Szathmáry tanárúr kérésére a Szkriptnyelvek tárgyra.  
-
+Ezt a Lua bemutató prezentációt 2023. ősz folyamán készítettem [Szathmáry László](https://github.com/jabbalaci) tanár úr kérésére a Szkriptnyelvek c. tárgyhoz.  
 
 ## Tartalom
 
-- Nyelv története
-- Nyelvről alapvető leírások
-- Alapvető szintaktika bemutatása (Python-hoz hasonlítva)
+- A nyelv története
+- A nyelv jellemzői
+- Alapvető szintaktika bemutatása (a Python-nal összehasonlítva)
 - Gyakorlati példák a Lua nyelv használatára
+
 
